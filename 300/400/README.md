@@ -6,10 +6,6 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 Cloud Security
 
-![Learning-Cyber-Security-Web_User-Stories](https://github.com/vanHeemstraSystems/learning-cyber-security/assets/1499433/b039aebb-e42f-4116-9997-53d6100cfd7c)
-
-Web Security
-
 **Planning Your Minimum Viable Product (MVP)**
 
 ## 2. Finding the Opportunities
