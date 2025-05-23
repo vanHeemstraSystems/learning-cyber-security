@@ -14,11 +14,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Table of contents\n\nLearning Cyber Security"
+    "text": "About this site"
   },
   {
     "objectID": "initiative.html",
@@ -28,11 +28,18 @@
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-cyber-security-initiative/"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "About this site"
+    "text": "Table of contents\n\nLearning Cyber Security"
+  },
+  {
+    "objectID": "REFERENCES.html",
+    "href": "REFERENCES.html",
+    "title": "References",
+    "section": "",
+    "text": "References\n\nGoogle Cybersecurity Professional"
   },
   {
     "objectID": "use-cases.html",
