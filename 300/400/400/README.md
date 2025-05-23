@@ -6,7 +6,7 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 | -- | -- |
 | Cloud Security | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/9/views/1?pane=issue&itemId=18547711 |
 | Web Security | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/16/views/1?layout=board&pane=issue&itemId=28191472 |
-| On-Premise Systems and Networks | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/39/views/1?layout_template=board&pane=issue&itemId=112083722 |
+| On-Premise Systems and Networks Security | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/39/views/1?layout_template=board&pane=issue&itemId=112083722 |
 
 ## Add Images to Pinterest
 
