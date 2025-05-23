@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Themes",
+    "section": "",
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-cyber-security-themes/"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Learning - Cyber Security",
@@ -14,13 +21,6 @@
     "text": "Table of contents\n\nLearning Cyber Security"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "initiative.html",
     "href": "initiative.html",
     "title": "Initiative",
@@ -28,17 +28,17 @@
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-cyber-security-initiative/"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "use-cases.html",
     "href": "use-cases.html",
     "title": "Use Cases",
     "section": "",
     "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-cyber-security-use-cases/"
-  },
-  {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Themes",
-    "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-cyber-security-themes/"
   }
 ]
