@@ -13,6 +13,8 @@ Can be browsed as "Learning - Cyber Security" at https://vanheemstrasystems.gith
 
 Roadmap to Learning Cyber Security at https://roadmap.sh/cyber-security
 
+- [References](./REFERENCES.md)
+
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
 ## 100 - Introduction
